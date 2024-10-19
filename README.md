@@ -1,1 +1,2 @@
-https://raw.githubusercontent.com/Anniecuti/Free-Scr/main/Annie-Hub.lua
+
+https://rawscripts.net/raw/UPDATE-16-Blox-Fruits-MIDNIGHT-x-HUB-7407
